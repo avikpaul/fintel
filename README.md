@@ -1,0 +1,2 @@
+# fintel
+Playing with Git
